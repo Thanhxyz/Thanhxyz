@@ -60,6 +60,7 @@
 					letter-spacing: 5px;
           animation:  typing 5s forwards;
           margin-left: 70px;
+	  margin-right: 30px;
           white-space: nowrap;
         }
 				.skills {
