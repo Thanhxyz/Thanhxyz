@@ -1,8 +1,8 @@
 <a href="#" target="_blank">
-<!--
+
   <img src="hoangichthanh.svg" width="1200" alt="thanh-dev" />
 </a>
--->
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
