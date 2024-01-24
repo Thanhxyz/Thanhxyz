@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="huyquocdang.svg" width="1200" alt="huyquocdang-dev" />
+  <img src="hoangichthanh.svg" width="1200" alt="hoangichthanhhoangichthanh-dev" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -53,11 +53,11 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="QuocHuydev">
+  <a href="#" title="hoangichthanhdev">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldev23&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="quochuydev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=danieldev23&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="#" title="thanhdev">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=thanh&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -65,40 +65,3 @@
 
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
-<!-- https://icons8.com -->
-<div align="center">
-
-  <a href="https://facebook.com/huycoder2k5" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="quochuydev-facebook" />
-  </a>
-  <a href="https://www.youtube.com/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="-youtube" />
-  </a>
-  <a href="https://www.linkedin.com/in/dangquochuy" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="quochuydev-linkedin" />
-  </a>
-  <a href="https://instagram.com/danieldev_.205" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="quochuydevdev-instagram" />
-  </a>
-  <a href="mailto:huypc929@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="quochuydev-email" />
-  </a>
-</div>
-
-<!-- <br>
-<h2 align="center">📖 Software Engineer & UI/UX Designner 📖</h2>
-<br>
-<p>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/huycoder2k5" target="_blank">https://www.facebook.com/huycoder2k5</a></strong>
-  <br>
-  <strong>📧 Hoặc Email: <a href="mailto:huydev2k.official@gmail.com" target="_top">huydev2k.official@gmail.com</a></strong>
-</p>
-<a href="https://youtu.be/63opfUkPq6k" target="_blank">
-  <img src="https://i.ibb.co/YtF5BWk/NG-QU-C-HUY-1.jpg" width="1200" alt="huydev2k-official" />
-</a> -->
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="huyquocdang-quotes.svg" width="846" height="150" alt="dangquochuy-official" />
-</a>
